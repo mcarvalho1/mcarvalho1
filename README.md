@@ -10,7 +10,15 @@
 
 ###
 
-<p align="left">🧑🏻‍💻 Intern Developer<br>🌍 Based in Rio de Janeiro, Brazil.<br>⚙️ Intern Developer of <a href="https://oglobo.globo.com/">Jornal O Globo</a> and <a href="https://extra.globo.com/">Jornal Extra</a><br>📫 Find me on: <a href="https://twitter.com/eichex_">twitter</a> · <a href="https://www.linkedin.com/in/mathcarvalho/">linkedin</a><br>🚘 Car lover</p>
+- ✨ Desenvolvedor Front-end.
+- 🔭 Atualmente trabalhando na [Editora Globo](https://www.linkedin.com/company/editoraglobo/).
+- 🌱 Estou aprendendo Javascript e ReactJS.
+- 🏆 Meu objetivo para 2023 é: Concluir meus estudos de Javascript e ReactJS.
+- Discord: mcarvalho#2885
+
+[![GitHub](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mcarvalho1)
+[![Linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathcarvalho/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eichex_)
 
 ###
 
