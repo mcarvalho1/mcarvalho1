@@ -15,7 +15,7 @@
 - ✨ Desenvolvedor Front-end.
 - 🔭 Atualmente trabalhando na [Editora Globo](https://www.linkedin.com/company/editoraglobo/).
 - 🌱 Estou aprendendo Javascript e ReactJS.
-- 🏆 Meu objetivo para 2024 é: Alcanças novas metas, como estudar novas tecnologias.
+- 🏆 Meu objetivo para 2025 é: Alcanças novas metas, como estudar novas tecnologias.
 - Discord: mcarvalho#2885
 
 [![GitHub](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mcarvalho1)
